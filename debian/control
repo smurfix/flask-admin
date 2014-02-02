@@ -1,0 +1,31 @@
+Source: flask-admin
+Maintainer: Serge S. Koval <serge.koval+github@gmail.com>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: python-flask-admin
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Simple and extensible admin interface framework for Flask
+ Flask-Admin
+ ===========
+ .
+ .. image:: https://travis-ci.org/mrjoes/flask-admin.png?branch=master
+ 	:target: https://travis-ci.org/mrjoes/flask-admin
+ .
+ Introduction
+ ------------
+ .
+ Flask-Admin is a batteries-included, simple-to-use `Flask <http://flask.pocoo.org/>`_ extension that lets you
+ add admin interfaces to Flask applications. It is inspired by the *django-admin* package, but implemented in such
+ a way that the developer has total control of the look, feel and functionality of the resulting application.
+ .
+ Out-of-the-box, Flask-Admin plays nicely with various ORM's, including
+ .
+ - `SQLAlchemy <http://www.sqlalchemy.org/>`_,
+ .
+ - `MongoEngine <http://mongoengine.org/>`_,
+ .
+ - `pymongo <http://api.mongodb.org/python/current/>`_ and
