@@ -1,3 +1,9 @@
+flask-admin (1.0.7-2) smurf; urgency=low
+
+  * Merge _get_dir_url fix
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Mon, 03 Feb 2014 08:09:42 +0100
+
 flask-admin (1.0.7-1) smurf; urgency=low
 
   * source package automatically created by stdeb 0.6.0+git
