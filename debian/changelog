@@ -1,3 +1,9 @@
+flask-admin (1.0.7-3) smurf; urgency=low
+
+  * Merge gettext fix (fileadmin)
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Mon, 03 Feb 2014 08:29:08 +0100
+
 flask-admin (1.0.7-2) smurf; urgency=low
 
   * Merge _get_dir_url fix
