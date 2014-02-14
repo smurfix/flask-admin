@@ -1,3 +1,9 @@
+flask-admin (1.0.7-7) smurf; urgency=low
+
+  * Bah. Print fullpath.
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Fri, 14 Feb 2014 07:47:03 +0100
+
 flask-admin (1.0.7-6) smurf; urgency=low
 
   * permission errors: report path when debugging
