@@ -1,3 +1,9 @@
+flask-admin (1.0.7+git1-0c3e94060-1) smurf; urgency=low
+
+  * Upstream merge from git
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Fri, 21 Feb 2014 10:09:06 +0100
+
 flask-admin (1.0.7-7) smurf; urgency=low
 
   * Bah. Print fullpath.
